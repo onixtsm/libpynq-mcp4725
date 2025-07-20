@@ -1,6 +1,6 @@
 # MCP4725 driver for PYNQ Z-2
 ## Requirements:
-- [libpynq] (https://pynq.tue.nl/general/libpynq/)
+- [libpynq](https://pynq.tue.nl/general/libpynq/)
 ## Usage
 Place files `mcp4725.h` and `mcp4725.c` in `library` directory
 Recompile the library and then just include `mcp4725.h`
