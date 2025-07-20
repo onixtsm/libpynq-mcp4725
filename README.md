@@ -10,6 +10,6 @@ This library is implemented following this [datasheet](https://www.tinytronics.n
 Only things missing are general calls and I2C HS-mode as both of them are not suppoerted by libpynq.
 
 ## TODO
--[ ] Bitbang general calls
--[ ] Add streaming option, i.e. not send START and STOP after each packet
+- [ ] Bitbang general calls
+- [ ] Add streaming option, i.e. not send START and STOP after each packet
 
